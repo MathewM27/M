@@ -1,0 +1,24 @@
+We are to optimize a personal portfolio website (built with Next.js) for SEO. The site showcases work as a System Engineer and Entrepreneur. The tasks include:
+
+1. Creating unique and descriptive <title> and <meta description> tags for each page.
+2. Generating Open Graph (OG) and Twitter Card tags for social sharing.
+3. Providing JSON-LD structured data (Person, Website, Project schemas).
+4. Suggesting relevant keywords (system engineering, entrepreneurship, etc.).
+5. Recommending sitemap structure and page prioritization.
+6. Proposing blog post ideas for long-tail SEO growth in technology, entrepreneurship, and business.
+
+Constraints:
+- Titles < 60 characters, meta descriptions < 160 characters.
+- Professional, approachable tone.
+- Natural keyword integration.
+- Assume domain: https://yourdomain.com
+
+Output format:
+1. Global SEO defaults.
+2. Page-specific SEO.
+3. Structured Data (JSON-LD).
+4. Keyword set.
+5. Blog topic suggestions.
+3. Structured Data in JSON-LD.
+4. Keyword set (primary + secondary).
+5. Suggested blog topics for growth.
